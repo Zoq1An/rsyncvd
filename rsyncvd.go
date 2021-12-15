@@ -65,6 +65,6 @@ func rsyncCheck(ip string) bool{
 }
 
 func main(){
-	rsyncCheck("172.18.2.249:873")
+	rsyncCheck("127.0.0.1:873")
 
 }
